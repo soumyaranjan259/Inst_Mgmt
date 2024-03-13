@@ -1,2 +1,3 @@
 class emp{
+String = "Ram";
 }
